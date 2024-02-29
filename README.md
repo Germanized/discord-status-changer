@@ -11,7 +11,7 @@ Requirements
 Clone this repository:
 
 ```bash
-https://github.com/Germanized/Discord-status-changer-FREE.git
+(https://github.com/Germanized/discord-status-changer.git)
 ```
 
 You can install the necessary shit  by running the following command:
