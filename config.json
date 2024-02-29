@@ -1,0 +1,6 @@
+{
+  "token": "token",
+  "clear_enabled": false,
+  "clear_interval": 1,
+  "sleep_interval": 1
+}
